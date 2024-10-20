@@ -1,10 +1,12 @@
-<h1 align="left">Hi 👋! My name is Sanskar Dewangan <br>and I'm a Full Stack Developer from India.</h1>
+<h1 align="left">Hi 👋! <br>My name is Sanskar Dewangan <br>and I'm a Full Stack Developer from India.</h1>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanskarrrrr30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Sanskarrrrr30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200" />
 </div>
 
 ###
@@ -21,9 +23,11 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100" alt="expern logo">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="react logo">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="nodejs logo">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100" alt="bpptstrap logo">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="python logo">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="vscode logo">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Github logo">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Git logo">
 </div>
 
 ###
@@ -39,13 +43,3 @@
 
 ###
 
-<br clear="both">
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sanskarrrrr30/count.svg?"  />
-</div>
-
-###
